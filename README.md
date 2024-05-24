@@ -5,4 +5,4 @@ The program corresponds to the paper named "Tracking Earthquake Sequences in Rea
 Run "0S-SNAP.py" with python3 and some packages (see imports at the beginning). The results will show up in the folder "07". Explore parameters as you want once you obtain the correct results. To make sure your results are identical with the S-SNAP catalog in the paper, you may download the catalog from the paper suplimental materials. 
 
 # Further information
-This code was written by Fengzhou Tan in University of Victoria, Canada. If you have more questions, please feel free to contact Fengzhou at ftan@uvic.ca.
+This code was written by Fengzhou Tan in University of Victoria, Canada. If you have more questions, please feel free to contact Fengzhou at fengzhou.tan@gmail.com.
